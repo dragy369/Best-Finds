@@ -1,0 +1,10 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#FAFAFA"/>
+  <rect x="120" y="120" width="960" height="1260" rx="60" fill="#E4E4E7"/>
+  <rect x="210" y="250" width="780" height="900" rx="40" fill="#D4D4D8"/>
+  <circle cx="600" cy="520" r="160" fill="#A1A1AA"/>
+  <rect x="360" y="730" width="480" height="240" rx="28" fill="#71717A"/>
+  <text x="600" y="1220" text-anchor="middle" fill="#18181B" font-size="52" font-family="Arial, sans-serif">
+    Smart Casual
+  </text>
+</svg>

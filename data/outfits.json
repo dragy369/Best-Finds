@@ -1,0 +1,58 @@
+[
+  {
+    "id": "minimal-streetwear-fit",
+    "title": "Minimal Streetwear Fit",
+    "image": "/images/outfit-1.svg",
+    "products": [
+      {
+        "name": "Oversized T-shirt",
+        "link": "https://example.com/affiliate/tshirt",
+        "price": "$29",
+        "label": "Best Pick"
+      },
+      {
+        "name": "Relaxed Cargo Pants",
+        "link": "https://example.com/affiliate/pants",
+        "price": "$49"
+      },
+      {
+        "name": "Chunky Sneakers",
+        "link": "https://example.com/affiliate/shoes",
+        "price": "$89"
+      },
+      {
+        "name": "Crossbody Bag",
+        "link": "https://example.com/affiliate/bag",
+        "price": "$39"
+      }
+    ]
+  },
+  {
+    "id": "smart-casual-neutrals",
+    "title": "Smart Casual Neutrals",
+    "image": "/images/outfit-2.svg",
+    "products": [
+      {
+        "name": "Knitted Polo",
+        "link": "https://example.com/affiliate/polo",
+        "price": "$42"
+      },
+      {
+        "name": "Tailored Trousers",
+        "link": "https://example.com/affiliate/trousers",
+        "price": "$65",
+        "label": "Editor Choice"
+      },
+      {
+        "name": "Leather Loafers",
+        "link": "https://example.com/affiliate/loafers",
+        "price": "$99"
+      },
+      {
+        "name": "Minimal Watch",
+        "link": "https://example.com/affiliate/watch",
+        "price": "$59"
+      }
+    ]
+  }
+]
