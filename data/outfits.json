@@ -6,52 +6,57 @@
     "products": [
       {
         "name": "Oversized T-shirt",
-        "link": "https://example.com/affiliate/tshirt",
-        "price": "$29",
-        "label": "Best Pick"
+        "link": "https://amzn.to/4lSWSoc",
+        "price": "₹699",
+        "label": "Best Seller"
       },
       {
-        "name": "Relaxed Cargo Pants",
-        "link": "https://example.com/affiliate/pants",
-        "price": "$49"
+        "name": "Relaxed Trouser",
+        "link": "https://amzn.to/4bLvhki",
+        "price": "₹499"
       },
       {
         "name": "Chunky Sneakers",
-        "link": "https://example.com/affiliate/shoes",
-        "price": "$89"
+        "link": "https://amzn.to/4lNx6l7",
+        "price": "₹1099"
       },
       {
         "name": "Crossbody Bag",
-        "link": "https://example.com/affiliate/bag",
-        "price": "$39"
+        "link": "https://amzn.to/3Q09SfG",
+        "price": "₹5401"
       }
     ]
   },
   {
     "id": "smart-casual-neutrals",
     "title": "Smart Casual Neutrals",
-    "image": "/images/outfit-2.svg",
+    "image": "/images/outfit-2.png",
     "products": [
       {
         "name": "Knitted Polo",
-        "link": "https://example.com/affiliate/polo",
-        "price": "$42"
+        "link": "https://amzn.to/40YbKYO",
+        "price": "₹405"
       },
       {
         "name": "Tailored Trousers",
-        "link": "https://example.com/affiliate/trousers",
-        "price": "$65",
+        "link": "https://amzn.to/4bR5DKR",
+        "price": "₹599",
         "label": "Editor Choice"
       },
       {
         "name": "Leather Loafers",
-        "link": "https://example.com/affiliate/loafers",
-        "price": "$99"
+        "link": "https://amzn.to/4uPOJF5",
+        "price": "₹1221"
       },
       {
         "name": "Minimal Watch",
-        "link": "https://example.com/affiliate/watch",
-        "price": "$59"
+        "link": "https://amzn.to/4tsSOhd",
+        "price": "₹4197"
+      },
+      {
+        "name": "Crossbody Bag",
+        "link": "https://amzn.to/4d40Bgl",
+        "price": "₹4490"
       }
     ]
   }

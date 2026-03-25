@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Best Finds | Fashion Affiliate Picks",
-  description: "A clean Linktree-style fashion affiliate outfits app.",
+  title: "Best Finds | Fashion Picks",
+  description: "A clean Linktree-style outfits app.",
 };
 
 export default function RootLayout({

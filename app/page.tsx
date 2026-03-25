@@ -13,7 +13,7 @@ export default function Home() {
           Best Finds
         </p>
         <h1 className="mt-2 text-3xl font-bold tracking-tight text-zinc-900 sm:text-4xl">
-          Affiliate Fashion Outfits
+          Fashion Outfits
         </h1>
         <p className="mx-auto mt-3 max-w-2xl text-sm text-zinc-600 sm:text-base">
           Discover clean, curated looks. Tap any outfit to open product links.
