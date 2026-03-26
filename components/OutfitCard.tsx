@@ -17,7 +17,7 @@ export function OutfitCard({ outfit }: OutfitCardProps) {
           src={outfit.image}
           alt={outfit.title}
           fill
-          className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"
+          className="object-contain p-2 transition-transform duration-300 group-hover:scale-[1.01]"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />
       </div>

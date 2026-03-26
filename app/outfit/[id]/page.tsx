@@ -41,7 +41,7 @@ export default async function OutfitPage({ params }: OutfitPageProps) {
             alt={outfit.title}
             fill
             priority
-            className="object-cover"
+            className="object-contain p-3"
             sizes="(max-width: 768px) 100vw, 1024px"
           />
         </div>
