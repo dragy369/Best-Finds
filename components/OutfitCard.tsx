@@ -22,9 +22,19 @@ export function OutfitCard({ outfit }: OutfitCardProps) {
         />
       </div>
       <div className="p-4">
+        {outfit.category ? (
+          <p className="mb-1 text-xs font-semibold uppercase tracking-[0.16em] text-zinc-500">
+            {outfit.category}
+          </p>
+        ) : null}
         <h2 className="text-base font-semibold tracking-tight text-zinc-900 sm:text-lg">
           {outfit.title}
         </h2>
+        {outfit.description ? (
+          <p className="mt-2 line-clamp-2 text-sm leading-6 text-zinc-600">
+            {outfit.description}
+          </p>
+        ) : null}
       </div>
     </Link>
   );

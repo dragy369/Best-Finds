@@ -2,62 +2,171 @@
   {
     "id": "minimal-streetwear-fit",
     "title": "Minimal Streetwear Fit",
+    "description": "A clean, everyday streetwear fit built around relaxed proportions and neutral tones.",
     "image": "/images/outfit-1.png",
+    "category": "Streetwear",
     "products": [
       {
         "name": "Oversized T-shirt",
+        "type": "topwear",
+        "color": "white",
+        "fit": "oversized",
         "link": "https://amzn.to/4lSWSoc",
         "price": "₹699",
         "label": "Best Seller"
       },
       {
         "name": "Relaxed Trouser",
+        "type": "bottomwear",
+        "color": "black",
+        "fit": "relaxed",
         "link": "https://amzn.to/4bLvhki",
         "price": "₹499"
       },
       {
         "name": "Chunky Sneakers",
+        "type": "footwear",
+        "color": "white",
         "link": "https://amzn.to/4lNx6l7",
         "price": "₹1099"
       },
       {
         "name": "Crossbody Bag",
+        "type": "accessory",
+        "color": "black",
         "link": "https://amzn.to/3Q09SfG",
         "price": "₹5401"
       }
-    ]
+    ],
+    "style_notes": [
+      "Keep the palette neutral (white/black/grey) for a minimal look",
+      "Aim for a relaxed fit on top and bottom for clean proportions",
+      "Let the sneakers be slightly chunky to balance the silhouette"
+    ],
+    "occasion": ["Casual outings", "College", "Travel", "Cafe"]
   },
   {
     "id": "smart-casual-neutrals",
     "title": "Smart Casual Neutrals",
+    "description": "A polished neutral outfit that stays comfortable while looking sharp and put-together.",
     "image": "/images/outfit-2.png",
+    "category": "Smart Casual",
     "products": [
       {
         "name": "Knitted Polo",
+        "type": "topwear",
+        "color": "beige",
         "link": "https://amzn.to/40YbKYO",
         "price": "₹405"
       },
       {
         "name": "Tailored Trousers",
+        "type": "bottomwear",
+        "color": "beige",
+        "fit": "slim",
         "link": "https://amzn.to/4bR5DKR",
         "price": "₹599",
         "label": "Editor Choice"
       },
       {
         "name": "Leather Loafers",
+        "type": "footwear",
+        "color": "black",
         "link": "https://amzn.to/4uPOJF5",
         "price": "₹1221"
       },
       {
         "name": "Minimal Watch",
+        "type": "accessory",
+        "color": "silver",
         "link": "https://amzn.to/4tsSOhd",
         "price": "₹4197"
       },
       {
         "name": "Crossbody Bag",
+        "type": "accessory",
+        "color": "black",
         "link": "https://amzn.to/4d40Bgl",
         "price": "₹4490"
       }
+    ],
+    "style_notes": [
+      "Stick to neutrals for a clean, elevated vibe",
+      "Tuck the polo slightly for a sharper waistline",
+      "Keep accessories minimal and cohesive"
+    ],
+    "occasion": ["Office casual", "Date", "Dinner", "Events"]
+  },
+  {
+  "id": "brown-minimal-smart-casual",
+  "title": "Minimal Smart Casual Look",
+  "description": "A clean, timeless outfit combining a brown cable-knit sweater with a crisp white shirt and beige chinos. Perfect for casual outings, dates, or a polished everyday look.",
+  "image": "/images/outfit-3.png",
+  "category": "Smart Casual",
+  "products": [
+    {
+      "name": "Brown Cable Knit Sweater",
+      "type": "topwear",
+      "color": "brown",
+      "fit": "regular",
+      "link": "https://amzn.to/4byCoxw",
+      "price": "₹499",
+      "label": "Core Piece"
+    },
+    {
+      "name": "White Button-Down Shirt",
+      "type": "topwear",
+      "color": "white",
+      "fit": "slim",
+      "link": "https://amzn.to/3Q0isuW",
+      "price": "₹549",
+      "label": "Layering Essential"
+    },
+    {
+      "name": "Beige Chinos",
+      "type": "bottomwear",
+      "color": "beige",
+      "fit": "slim",
+      "link": "https://amzn.to/4t9Uhsi",
+      "price": "₹1799",
+      "label": "Versatile Pick"
+    },
+    {
+      "name": "Black Leather Loafers",
+      "type": "footwear",
+      "color": "black",
+      "link": "https://amzn.to/3Puy6yI",
+      "price": "₹729",
+      "label": "Clean Finish"
+    },
+    {
+      "name": "Minimal Bracelet",
+      "type": "accessory",
+      "color": "black",
+      "link": "https://amzn.to/4syhYdU",
+      "price": "₹209",
+      "label": "Subtle Detail"
+    },
+    {
+      "name": "Classic Sunglasses",
+      "type": "accessory",
+      "color": "black",
+      "link": "https://amzn.to/4rZ2uPk",
+      "price": "₹667",
+      "label": "Optional Add-on"
+    }
+    ],
+    "style_notes": [
+      "Keep the shirt collar visible for a layered effect",
+      "Stick to neutral tones for a clean aesthetic",
+      "Ensure proper fit — not too baggy, not too tight",
+      "Roll sleeves slightly for a relaxed vibe"
+    ],
+    "occasion": [
+      "Casual outings",
+      "College",
+      "Date",
+      "Cafe meetups"
     ]
   }
 ]
