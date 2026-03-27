@@ -168,5 +168,70 @@
       "Date",
       "Cafe meetups"
     ]
+  },
+  {
+    "id": "urban-green-minimal-fit",
+    "title": "Urban Green Minimal Fit",
+    "description": "A modern minimal outfit built around earthy tones and relaxed silhouettes. Clean, effortless, and highly wearable.",
+    "image": "/images/outfit-4.png",
+    "category": "Streetwear",
+    "products": [
+      {
+        "name": "Olive Green Half-Zip Knit Sweater",
+        "type": "topwear",
+        "color": "olive green",
+        "fit": "relaxed",
+        "link": "https://amzn.to/4s2rvcr",
+        "price": "₹945",
+        "label": "Core Piece"
+      },
+      {
+        "name": "White Crew Neck T-Shirt",
+        "type": "topwear",
+        "color": "white",
+        "fit": "regular",
+        "link": "https://amzn.to/40UhnHx",
+        "price": "₹319",
+        "label": "Layering Essential"
+      },
+      {
+        "name": "Black Wide-Leg Pants",
+        "type": "bottomwear",
+        "color": "black",
+        "fit": "wide-leg",
+        "link": "https://amzn.to/4deGtIq",
+        "price": "₹798",
+        "label": "Trending Fit"
+      },
+      {
+        "name": "Green Clogs (Birkenstock Style)",
+        "type": "footwear",
+        "color": "beige",
+        "link": "https://amzn.to/4rZjB3g",
+        "price": "₹1,499",
+        "label": "Comfort Pick"
+      },
+      {
+        "name": "Black Crossbody Sling Bag",
+        "type": "accessory",
+        "color": "black",
+        "link": "https://amzn.to/3Q09SfG",
+        "price": "₹5,401",
+        "label": "Utility"
+      }
+    ],
+    "style_notes": [
+      "Use earthy tones like olive and beige for a calm aesthetic",
+      "Keep the fit relaxed to maintain a modern silhouette",
+      "Let the inner white tee peek out for layering contrast",
+      "Balance wide pants with a structured upper body",
+      "Stick to minimal accessories for a clean finish"
+    ],
+    "occasion": [
+      "Casual outings",
+      "College",
+      "Travel",
+      "Weekend wear"
+    ]
   }
 ]
